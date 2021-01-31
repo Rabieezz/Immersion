@@ -1,1 +1,1 @@
-puts " Git Immersion here I come"
+puts " Git Immersion here I come Mr #{ARGV.first}! "
